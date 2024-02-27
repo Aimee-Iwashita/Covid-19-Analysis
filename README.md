@@ -10,4 +10,4 @@ I have used R programming language to do data cleaning and manipulation. This re
 The owid Covid-19 dataset and detailed description can be found [here](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 ## Overview of Power BI dashboard
-![Screenshot of Power BI dashboard]("C:\Users\aimee\OneDrive\デスクトップ\Covid_analysis\covid_pbi_screenshot.png")
+![Screenshot of Power BI dashboard](https://github.com/Aimee-Iwashita/Covid-19-Analysis/blob/main/covid_pbi_screenshot.png)https://github.com/Aimee-Iwashita/Covid-19-Analysis/blob/main/covid_pbi_screenshot.png)
